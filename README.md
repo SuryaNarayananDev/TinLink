@@ -4,6 +4,8 @@ Hey there! 👋
 Welcome to **TinLink** — your go-to tool to **shorten URLs**, **track clicks**, **YRl to QR code** and get **insane insights** in a beautifully simple way.  
 Built for devs, creators, and curious link nerds like you.
 
+---
+DEMO : [SITE ON LIVE ✈️](https://tinlink.netlify.app/)
 
 ---
 
